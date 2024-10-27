@@ -72,7 +72,7 @@ let addressesnotls = [
 ];
 let addressesnotlsapi = [];
 let addressescsv = [];
-let DLS = 8;
+let DLS = 40;
 let FileName = 'edgetunnel';
 let BotToken ='';
 let ChatID =''; 
